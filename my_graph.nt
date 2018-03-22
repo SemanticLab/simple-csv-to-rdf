@@ -1,0 +1,17 @@
+<None> <> <None> .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Lilly Brown"@en .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Milton Batiste Sr."@en .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Feliciana Mary Jolivette Batiste"@en .
+<https://www.wikidata.org/wiki/Q367071> <> <None> .
+<http://id.loc.gov/authorities/names/no99007541> <> <None> .
+<http://id.loc.gov/authorities/names/no99007541> <http://www.w3.org/2000/01/rdf-schema#label> "Milton Joseph Batiste Jr."@en .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Louis Batiste"@en .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Charles Jolivette"@en .
+<https://www.wikidata.org/wiki/Q1341386> <http://www.w3.org/2000/01/rdf-schema#label> "Lionel Batiste"@en .
+<None> <> <http://id.loc.gov/authorities/names/no99007541> .
+<https://www.wikidata.org/wiki/Q1341386> <> <None> .
+<https://www.wikidata.org/wiki/Q367071> <http://www.w3.org/2000/01/rdf-schema#label> "Alvin Batiste"@en .
+<https://www.wikidata.org/wiki/Q367071> <> <https://musicbrainz.org/artist/76be3c27-b3fe-4a06-a76d-96f79663195b> .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Scipio Baptiste"@en .
+<None> <http://www.w3.org/2000/01/rdf-schema#label> "Felicia Boykins(sp?)"@en .
+
