@@ -1,27 +1,27 @@
-Subject Label,Subject URI,Predicate Label,Predicate URI,Predicate Symmetry,Object Label,Object URI
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Son Of,,Asymmetric,Milton Batiste Sr.,None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Son Of,,Asymmetric,Feliciana Mary Jolivette Batiste,None
-Milton Batiste Sr.,None,Father Of,,Asymmetric,Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541
-Feliciana Mary Jolivette Batiste,None,Mother Of,,Asymmetric,Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541
-Milton Batiste Sr.,None,Spouse Of,,Symmetric,Feliciana Mary Jolivette Batiste,None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Maurice Scipio,None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Marlene,None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Mary,None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Miriam(sp?),None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Martha,None
-Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Merial(sp?),None
-Milton Batiste Sr.,None,Son Of,,Asymmetric,Scipio Baptiste,None
-Milton Batiste Sr.,None,Son Of,,Asymmetric,Elizabeth Baptiste,None
-Scipio Baptiste,None,Spouse Of,,Symmetric,Elizabeth Baptiste,None
-Milton Batiste Sr.,None,Brother Of,,Symmetric,Felicia Boykins(sp?),None
-Felicia Boykins(sp?),None,Spouse Of,,Symmetric,Earl Boykins,None
-Joseph Charles Jolivette,None,Spouse Of,,Symmetric,Virginia Edwards,None
-Feliciana Mary Jolivette Batiste,None,Daughter Of,,Asymmetric,Joseph Charles Jolivette,None
-Feliciana Mary Jolivette Batiste,None,Daughter Of,,Asymmetric,Virginia Edwards,None
-Alvin Batiste,https://www.wikidata.org/wiki/Q367071,Spouse Of,,Symmetric,Edith Chatters Batiste,https://musicbrainz.org/artist/76be3c27-b3fe-4a06-a76d-96f79663195b
-Alvin Batiste,https://www.wikidata.org/wiki/Q367071,Son Of,,Asymmetric,Lilly Brown,None
-Alvin Batiste,https://www.wikidata.org/wiki/Q367071,Son Of,,Asymmetric,Edgar Batiste,None
-Lilly Brown,None,Spouse Of,,Symmetric,Edgar Batiste,None
-Lionel Batiste,https://www.wikidata.org/wiki/Q1341386,Son Of,,Asymmetric,Walter Louis Batiste,None
-Lionel Batiste,https://www.wikidata.org/wiki/Q1341386,Son Of,,Asymmetric,Irma Batiste,None
-Walter Louis Batiste,None,Spouse Of,,Symmetric,Irma Batiste,None
+Subject Label,Subject URI,Predicate Label,Predicate URI,Predicate Symmetry,Object Label,Object URI,Context
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Son Of,,Asymmetric,Milton Batiste Sr.,None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Son Of,,Asymmetric,Feliciana Mary Jolivette Batiste,None,
+Milton Batiste Sr.,None,Father Of,,Asymmetric,Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,http://cool.net/whatever
+Feliciana Mary Jolivette Batiste,None,Mother Of,,Asymmetric,Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,
+Milton Batiste Sr.,None,Spouse Of,,Symmetric,Feliciana Mary Jolivette Batiste,None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Maurice Scipio,None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Marlene,None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Mary,None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Miriam(sp?),None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Martha,None,
+Milton Joseph Batiste Jr.,http://id.loc.gov/authorities/names/no99007541,Brother Of,,Symmetric,Merial(sp?),None,
+Milton Batiste Sr.,None,Son Of,,Asymmetric,Scipio Baptiste,None,
+Milton Batiste Sr.,None,Son Of,,Asymmetric,Elizabeth Baptiste,None,
+Scipio Baptiste,None,Spouse Of,,Symmetric,Elizabeth Baptiste,None,
+Milton Batiste Sr.,None,Brother Of,,Symmetric,Felicia Boykins(sp?),None,
+Felicia Boykins(sp?),None,Spouse Of,,Symmetric,Earl Boykins,None,
+Joseph Charles Jolivette,None,Spouse Of,,Symmetric,Virginia Edwards,None,
+Feliciana Mary Jolivette Batiste,None,Daughter Of,,Asymmetric,Joseph Charles Jolivette,None,
+Feliciana Mary Jolivette Batiste,None,Daughter Of,,Asymmetric,Virginia Edwards,None,
+Alvin Batiste,https://www.wikidata.org/wiki/Q367071,Spouse Of,,Symmetric,Edith Chatters Batiste,https://musicbrainz.org/artist/76be3c27-b3fe-4a06-a76d-96f79663195b,
+Alvin Batiste,https://www.wikidata.org/wiki/Q367071,Son Of,,Asymmetric,Lilly Brown,None,
+Alvin Batiste,https://www.wikidata.org/wiki/Q367071,Son Of,,Asymmetric,Edgar Batiste,None,
+Lilly Brown,None,Spouse Of,,Symmetric,Edgar Batiste,None,
+Lionel Batiste,https://www.wikidata.org/wiki/Q1341386,Son Of,,Asymmetric,Walter Louis Batiste,None,
+Lionel Batiste,https://www.wikidata.org/wiki/Q1341386,Son Of,,Asymmetric,Irma Batiste,None,
+Walter Louis Batiste,None,Spouse Of,,Symmetric,Irma Batiste,None,
